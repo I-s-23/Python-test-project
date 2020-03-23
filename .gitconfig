@@ -1,0 +1,8 @@
+[core]
+	editor = \"C:\\Users\\shun9\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --wait
+[user]
+	email = shun9268@egmail.com
+	name = I-s-23
+
+[credential]
+	helper = "!f() { /root/.vscode-server/bin/78a4c91400152c0f27ba4d363eb56d2835f9903a/node /tmp/vscode-remote-containers-da257b7d981432db0c5e343da7ab56a4bfb90e70.js $*; }; f"
